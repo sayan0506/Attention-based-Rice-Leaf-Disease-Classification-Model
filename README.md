@@ -12,3 +12,4 @@ Rice Leaf Disease Classification using Convolution Bottleneck Attention Model
 * [Understanding Attention Modules: CBAM and BAM — A Quick Read](https://blog.paperspace.com/attention-mechanisms-in-computer-vision-cbam/)
 * [Attention Mechanisms in Computer Vision: CBAM](https://blog.paperspace.com/attention-mechanisms-in-computer-vision-cbam/)
 * [Grape disease image classification based on lightweight convolution neural networks and channelwise attention](https://www.sciencedirect.com/science/article/abs/pii/S0168169919319908?dgcid=rss_sd_all)
+* [py7zr – a 7z library on python](https://pypi.org/project/py7zr/)
