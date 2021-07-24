@@ -14,4 +14,5 @@ Rice Leaf Disease Classification using Convolution Bottleneck Attention Model
 * [Grape disease image classification based on lightweight convolution neural networks and channelwise attention](https://www.sciencedirect.com/science/article/abs/pii/S0168169919319908?dgcid=rss_sd_all)
 * [Attention-Based Recurrent Neural Network for Plant Disease Classification](https://www.frontiersin.org/articles/10.3389/fpls.2020.601250/full)
 * [Fine-Grained Image Classification for Crop Disease Based on Attention Mechanism](https://www.frontiersin.org/articles/10.3389/fpls.2020.600854/full)
+* [Attention embedded residual CNN for disease detection in tomato leaves](https://www.sciencedirect.com/science/article/abs/pii/S1568494619307148)
 * [py7zr – a 7z library on python](https://pypi.org/project/py7zr/)
