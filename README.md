@@ -12,7 +12,7 @@ Our goal is to design a Residual CNN model which consists of (CBAM + BAM) to imp
 
 ## Hnadwritten Note
 
-[Hand Written notes on Visual attention using CBAM and BAM]()
+[Hand Written notes on Visual attention using CBAM and BAM](https://github.com/sayan0506/Attention-based-Rice-Leaf-Disease-Classification-Model/blob/main/Visual%20Attention%20using%20CBAM%20and%20BAM.pdf)
 
 # **Reference**
 
