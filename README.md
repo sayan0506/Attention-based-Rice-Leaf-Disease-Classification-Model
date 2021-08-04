@@ -6,6 +6,9 @@ Rice Leaf Disease Classification using Convolution Bottleneck Attention Model
 * [Mendley Rice Leaf Image Samples](https://data.mendeley.com/datasets/fwcj7stb8r/1)
 * [Rice Leaf Diseases Dataset](https://www.kaggle.com/vbookshelf/rice-leaf-diseases)
 
+# **Approach**
+
+Our goal is to design a Residual CNN model which consists of (CBAM + BAM) to implement the concept of visual attention in the network. 
 
 # **Reference**
 
