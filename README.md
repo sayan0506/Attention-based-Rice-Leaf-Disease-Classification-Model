@@ -10,6 +10,10 @@ Rice Leaf Disease Classification using Convolution Bottleneck Attention Model
 
 Our goal is to design a Residual CNN model which consists of (CBAM + BAM) to implement the concept of visual attention in the network. 
 
+## Hnadwritten Note
+
+[Hand Written notes on Visual attention using CBAM and BAM]()
+
 # **Reference**
 
 * [Understanding Attention Modules: CBAM and BAM — A Quick Read](https://medium.com/visionwizard/understanding-attention-modules-cbam-and-bam-a-quick-read-ca8678d1c671#:~:text=Understanding%20Attention%20Modules%3A%20CBAM%20and%20BAM%20%E2%80%94%20A%20Quick%20Read&text=Bottleneck%20Attention%20Modules(BAM)%C2%B9,Attention%20Modules(CBAM)%C2%B2.&text=Lightweight%20network%20and%20straightforward%20implementations,part%20of%20convolutional%20neural%20networks.)
